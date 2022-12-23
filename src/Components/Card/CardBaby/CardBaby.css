@@ -1,0 +1,29 @@
+.CardBaby {
+	width: 250px;
+	height: 300px;
+	border: 2px solid darkblue;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	justify-content: space-around;
+    border-radius: 5px;
+	background-color: white;
+}
+.BabyCard {
+	width: 850px;
+	height: 750px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	justify-content: space-around;
+}
+.ClickBuy{
+    width: 100px;
+    height: 25px;
+    border-radius: 10px;
+    background-color: rgb(180, 39, 39);
+    color: white;
+    font-weight: bold;
+}

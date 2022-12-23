@@ -1,0 +1,8 @@
+.Main {
+	width: 203.5vh;
+	height: 1000px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+}

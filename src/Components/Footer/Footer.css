@@ -1,0 +1,21 @@
+.Footer {
+	width: 1500px;
+	/* height: 100%; */
+	display: flex;
+	color: white;
+	font-family: 'Times New Roman', Times, serif;
+	justify-content: center;
+	align-items: center;
+	justify-content: space-around;
+}
+.SpanFonMain {
+	font-size: 30px;
+}
+.VnutriFootera {
+	width: 200px;
+	height: 150px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	justify-content: space-around;
+}
